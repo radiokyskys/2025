@@ -10,7 +10,7 @@ Le lezioni sono di natura pratica: i concetti appresi verranno immediatamente ap
 ## Argomenti trattati
 - Introduzione alla grafica computazionale
 - Proporzioni
-- Trigonometria (curve, oscillazioni, colori, ecc.)
+- Trigonometria (curve, oscillazioni, colori, figure di Lissajus, ecc.)
 - Vettori 2d e 3d
 - Matrici e trasformazioni
 - Curve parametriche
