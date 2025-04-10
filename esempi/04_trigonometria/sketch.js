@@ -16,10 +16,10 @@ function draw() {
 	const assi = max(width, height)
 
 
-	// Output
 	background(220)
 	noStroke()
 
+	// Testo
 	fill(0)
 	text("ang = " + a.toFixed(2), 50, 50 + 16 * 0 )
 
@@ -31,8 +31,6 @@ function draw() {
 
 	fill(0, 0, 200)
 	text("tan = " + t.toFixed(2), 50, 50 + 16 * 3 )
-
-
 
 
 
@@ -69,11 +67,5 @@ function draw() {
 	// Tangente
 	stroke(0, 0, 200)
 	line(x, y, x + y * t, y - x * t)
-
-
-
-
-
-
 
 }
