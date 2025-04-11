@@ -21,7 +21,8 @@ function draw() {
 	curve.forEach( (c, i) => {
 		const damping = map(i, 0, curve.length, 0.94, 0.84)
 		c.update(m, damping, 1)
-		c.draw()
+		const col = color(0, map(i, 0, curve.length, 100, 0))
+		c.draw(col)
 	})
 
 }
@@ -49,16 +50,18 @@ class Curva {
 		}
 	}
 
-	draw() {
-		// Disegnamo la coda
+	draw(color) {
 		strokeCap(ROUND)
 		strokeJoin(ROUND)
-		strokeWeight(1)
+		strokeWeight(2)
 		noFill()
+		stroke(color)
+
+		// Disegnamo la coda
 		beginShape()
 		// Un altro modo per fare fare una loop è
 		// utilizzare forEach invece di for
-		this.coda.forEach( v => vertex(v.x, v.y))
+			this.coda.forEach( v => vertex(v.x, v.y))
 		endShape()
 	}
 
