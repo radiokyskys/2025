@@ -5,8 +5,8 @@ function setup(){
 function draw() {
 	background(220)
 
-	const cx = width/2 + sin(frameCount * 0.013) * width * 0.4
-	const cy = height/2 + cos(frameCount * 0.015) * height * 0.4
+	const cx = width/2 + sin(frameCount * 0.009) * width * 0.4
+	const cy = height/2 + cos(frameCount * 0.007) * height * 0.4
 	noStroke()
 	fill(0)
 	lineaTratteggiata(mouseX, mouseY, cx, cy, 16)
