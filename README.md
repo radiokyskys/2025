@@ -78,4 +78,4 @@ Nota: verranno distribuite delle dispense digitali in classe.
 - [thi.ng](https://thi.ng)
 
 ## Gruppi di lavoro e progetti
-
+.
