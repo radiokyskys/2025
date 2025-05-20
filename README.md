@@ -1,10 +1,11 @@
 # Matematica per il design
 
-Esempi di codice e documenti per il corso di Matematica per il design, ISIA
-Triennio 1. anno, 2025
+Esempi di codice e documenti per il corso di Matematica per il design   
+ISIA  
+Triennio 1. anno, 2025  
 
 ## Descrizione e obiettivi del corso
-Il corso ha come obiettivo quello di fornire una serie di strumenti teorici e pratici per poter applicare in modo consapevole nozioni di geometria e di matematica al processo di lavoro, espandendo così le possibilità del progetto.
+Il corso ha come obiettivo quello di fornire una serie di strumenti teorici e pratici per poter applicare in modo consapevole nozioni di geometria e di matematica al processo di lavoro, espandendo così le possibilità del progetto.  
 Le lezioni sono di natura pratica: i concetti appresi verranno immediatamente applicati, visualizzati ed esplorati attraverso il disegno o semplici programmi scritti dagli studenti stessi, favorendo così uno sviluppo intuitivo della materia.
 
 ## Argomenti trattati
@@ -29,7 +30,7 @@ Le lezioni sono di natura pratica: i concetti appresi verranno immediatamente ap
 - GitHub
 
 ## Modalità di esame
-Sviluppo di una ricerca, di un approfondimento, di uno strumento didattico o di un'applicazione di uno dei temi toccati durante il corso, sotto forma di pagina HTML (oppure MD, in alternativa: PDF).
+Sviluppo di una ricerca, di un approfondimento, di uno strumento didattico o di un'applicazione di uno dei temi toccati durante il corso, sotto forma di pagina HTML (oppure MD, in alternativa: PDF).  
 Il progetto dovrà essere accompagnato da una breve descrizione che metterà in evidenza gli aspetti teorici o storici della materia.
 Il progetto verrà presentato alla classe durante la sessione di esame.
 
@@ -69,8 +70,8 @@ Nota: verranno distribuite delle dispense digitali in classe.
 - [Learn p5js](https://p5js.org/tutorials/), Tutorial ufficiali per imparare p5.js
 - [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), Corso interattivo per principianti
 
-¹ È possibile comandare la versione cartacea<br/>
-² Lezioni video
+¹ È possibile comandare la versione cartacea  
+² Lezioni video  
 
 #### Librerie/frameworks JavaScript:
 - [p5js](https://p5js.org)
