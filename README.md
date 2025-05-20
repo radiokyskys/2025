@@ -78,4 +78,65 @@ Nota: verranno distribuite delle dispense digitali in classe.
 - [thi.ng](https://thi.ng)
 
 ## Gruppi di lavoro e progetti
-.
+
+- **Matteo Novello e Sara Bertocchi**   
+Pseudo Random   
+[link](link)  
+
+- **Tullio Natale**  
+Frattali  
+[link](link)
+
+- **Samuele De March e Lorenzo Livorsi**  
+Signed Distance Functions  
+[link](link)
+
+- **Alessandro Soli e Daniel Fasulo**  
+Compressione JPG  
+[link](link)
+
+- **David Obexer e Dario Rabatti**  
+Matrici convoluzionali  
+[link](link)
+
+- **Nina Pambianco e Julia Dudina**  
+Noise  
+[link](link)
+
+- **Riccardo Toniolo**  
+Reaction diffusion  
+[link](link)
+
+- **Adam Hudec**   
+Kuwahara Filter  
+[link](link)
+
+- **Teresa Tonelotto e Giulia Descovich**  
+Visualizzazione suono  
+[link](link)
+
+- **Francesco Aiudi e Elia Miodini**  
+Computer vision  
+[link](link)
+
+- **Aurora Amdadori e Lorenzo Nepi**  
+Caleidoscopio  
+[link](link)
+
+- **Francesca Coli e Claudia Riva**  
+Interpolazione animazione  
+[link](link)
+
+- **Ginevra Croci**  
+Morse  
+[link](link)
+
+- **Viola Shillito e Asia Torreggiani**  
+L-Systems  
+[link](link)
+
+- **Sofia Macrì e Sebastiano Alfonsi**  
+Biologia(?)  
+[link](link)
+
+
