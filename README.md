@@ -90,7 +90,7 @@ Frattali
 
 - **Samuele De March e Lorenzo Livorsi**  
 Signed Distance Functions    
-[https://](link)
+[https://sdm24005.github.io/SDF](https://sdm24005.github.io/SDF)
 
 - **Alessandro Soli e Daniel Fasulo**  
 Compressione JPG  
