@@ -98,7 +98,7 @@ Compressione JPG
 
 - **David Obexer e Dario Rabatti**  
 Matrici convoluzionali  
-[link](link)
+[https://davidobexer.github.io/Filtri-convoluzionali](https://davidobexer.github.io/Filtri-convoluzionali)
 
 - **Nina Pambianco e Julia Dudina**  
 Perlin Noise   
