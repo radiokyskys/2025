@@ -89,8 +89,8 @@ Frattali
 [link](link)
 
 - **Samuele De March e Lorenzo Livorsi**  
-Signed Distance Functions  
-[link](link)
+Signed Distance Functions    
+[https://](link)
 
 - **Alessandro Soli e Daniel Fasulo**  
 Compressione JPG  
@@ -101,8 +101,8 @@ Matrici convoluzionali
 [link](link)
 
 - **Nina Pambianco e Julia Dudina**  
-Noise  
-[link](link)
+Perlin Noise   
+[link](link)  
 
 - **Riccardo Toniolo**  
 Reaction diffusion  
@@ -110,7 +110,7 @@ Reaction diffusion
 
 - **Adam Hudec**   
 Kuwahara Filter  
-[link](link)
+[https://adamhudec.github.io/made](https://adamhudec.github.io/made)
 
 - **Teresa Tonelotto e Giulia Descovich**  
 Visualizzazione suono  
@@ -120,7 +120,7 @@ Visualizzazione suono
 Computer vision  
 [link](link)
 
-- **Aurora Amdadori e Lorenzo Nepi**  
+- **Aurora Amadori e Lorenzo Nepi**  
 Caleidoscopio  
 [link](link)
 
